@@ -17,3 +17,5 @@ data/example.mat
 data/bureau.csv
 Day_001_example_of_metrics.ipynb
 .ipynb_checkpoints/Day_001_example_of_metrics-checkpoint.ipynb
+.ipynb_checkpoints/
+example/
